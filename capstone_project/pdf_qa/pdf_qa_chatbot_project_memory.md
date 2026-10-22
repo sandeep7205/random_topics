@@ -24,6 +24,7 @@ guidance.
     -   guidance on what to search for
 -   The user wants a **brutally honest mentor style**, but still
     practical and supportive.
+-   **Language and communication style**: Always instruct and provide responses in **B1 English** (clear, simple sentences, everyday intermediate vocabulary; avoid overly complex academic words or convoluted phrasing).
 -   The goal is to **learn while building**, not merely finish a
     chatbot.
 -   Avoid overwhelming the user with too many technologies at once.

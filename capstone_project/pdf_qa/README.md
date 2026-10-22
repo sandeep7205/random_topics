@@ -32,7 +32,7 @@ The basic flow will be:
 8. When the user asks a question, the API receives the request.
 9. The system searches the vector database for relevant content.
 10. The retrieved content is sent to an LLM.
-11. The LLM generates an answer based on the retrieved document content.
+11. The LLM generates an answer based on the retrieved document content (in clear B1 English).
 12. The answer is returned to the UI.
 
 The system should eventually support both:

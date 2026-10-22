@@ -776,7 +776,7 @@ LLM
 Answer
 ```
 
-Answer should include sources:
+Answer should include sources and be generated in **B1 English** (clear, simple intermediate English):
 
 ```text
 Answer:
@@ -1240,6 +1240,7 @@ Only when genuinely necessary.
 
 When working on this project, I should:
 
+* Always communicate and provide responses in **B1 English** (use clear, simple, and direct sentences; everyday vocabulary).
 * Be direct and honest.
 * Explain complicated concepts simply.
 * Assume Python/SQL fundamentals, not advanced expertise.
